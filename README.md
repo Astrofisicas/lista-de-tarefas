@@ -6,4 +6,4 @@ Este é um projeto de lista de tarefas simples criado com Flask e SQLAlchemy.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/flask-todo-app.git
+   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
