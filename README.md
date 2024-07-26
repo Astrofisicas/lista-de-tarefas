@@ -1,4 +1,4 @@
-# Flask To-Do App
+# Lista de Tarefas
 
 Este é um projeto de lista de tarefas simples criado com Flask e SQLAlchemy.
 
